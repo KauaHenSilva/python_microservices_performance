@@ -3,6 +3,10 @@
 
 Este projeto realiza testes automatizados de performance no Spring PetClinic (microservices) usando Locust.
 
+# Link do video do youtube
+
+[![Acessar o site](https://img.shields.io/badge/Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ga5R7AfWHhc)
+
 ## Objetivo
 
 Avaliar o desempenho do sistema sob diferentes cargas, identificando o ponto de saturação e o comportamento de falhas.
