@@ -7,7 +7,7 @@ Este projeto realiza testes automatizados de performance no Spring PetClinic (mi
 
 [![Acessar o site](https://img.shields.io/badge/Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ga5R7AfWHhc)
 
-# Link do video do artigo
+# Link do artigo
 
 [![Acessar o Artigo](https://img.shields.io/badge/Acessar_o_Artigo-PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1ZIe9kGB1xOamI5jgjm1-grpg1F5-IZq7/view?usp=drive_link)
 
